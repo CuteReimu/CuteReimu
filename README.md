@@ -1,6 +1,6 @@
 ## Here is CuteReimu 👋 这里是 奇葩の灵梦
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=CuteReimu&show_icons=true&theme=dracula&custom_title=CuteReimu&count_private=true">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=CuteReimu&show_icons=true&theme=dracula&custom_title=奇葩の灵梦&count_private=true">
 
 ### About ✨ 关于
 
@@ -12,17 +12,6 @@
 
 - The host of the largest *Danmaku Shooting Game* QQ group in China, *Touhou Project Freshman Camp*<br/>**国内最大的弹幕射击游戏QQ群——东方Project沙包聚集地的群主**
 
-<!--
-**CuteReimu/CuteReimu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Site 📫 链接
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Bilibili](https://space.bilibili.com/1415334)
