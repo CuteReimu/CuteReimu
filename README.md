@@ -10,7 +10,7 @@
 
 - Running games, such as *Touhou Project*, *Hollow Knight*<br/>**打一些游戏，例如*东方Project*、*空洞骑士***
 
-- The host of the largest *Danmaku Shooting Game* QQ group in China, *Touhou Project Freshman Camp*<br/>**国内最大的弹幕射击游戏QQ群——东方Project沙包聚集地的群主**
+- The host of the largest *Danmaku Shooting Game* QQ group, *Touhou Project Freshman Camp*<br/>**最大的弹幕射击游戏QQ群——东方Project沙包聚集地的群主**
 
 ### Site 📫 链接
 
