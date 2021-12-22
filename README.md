@@ -1,5 +1,3 @@
-## Here is CuteReimu 👋 这里是 奇葩の灵梦
-
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=CuteReimu&show_icons=true&theme=dracula&custom_title=奇葩の灵梦&count_private=true">
 
 ### About ✨ 关于
