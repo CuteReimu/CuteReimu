@@ -14,4 +14,4 @@
 
 ### Site 📫 链接
 
-[Bilibili](https://space.bilibili.com/1415334)
+[![Bilibili](https://img.shields.io/badge/dynamic/json?labelColor=FE7398&logo=bilibili&logoColor=white&label=b站-奇葩の灵梦&color=00aeec&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dbilibili%26queryKey%3D1415334)](https://space.bilibili.com/1415334)
