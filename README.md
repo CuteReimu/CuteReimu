@@ -10,7 +10,7 @@
 
 - Founder of *Hollow Knight* speedrun community in China<br/>**国内*空洞骑士*速通社区奠基人**
 
-<img align="right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=CuteReimu&layout=compact&hide_border=true&langs_count=10&hide=Batchfile,Shell,TypeScript">
+<img align="right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=CuteReimu&layout=compact&hide_border=true&langs_count=10&hide=Batchfile,Shell">
 
 ### Site 📫 链接
 
