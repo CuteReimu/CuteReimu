@@ -6,9 +6,11 @@
 
 - Know a little about web development<br/>**略懂一些Web开发语言**
 
-- The host of the largest *Danmaku Shooting Game* QQ group, *Touhou Project Freshman Camp*<br/>**最大的*弹幕射击游戏*QQ群——*东方Project沙包聚集地*的群主**
+- Founder of the largest *Danmaku Shooting Game* QQ group, *Touhou Project Freshman Camp*<br/>**最大的*弹幕射击游戏*QQ群——*东方Project沙包聚集地*的创始人**
 
 - Founder of *Hollow Knight* speedrun community in China<br/>**国内*空洞骑士*速通社区奠基人**
+
+- The designer of settlement rules of the board game, *Feng Sheng*<br/>***风声*桌游结算规则的设计者**
 
 <img align="right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=CuteReimu&layout=compact&hide_border=true&langs_count=10&hide=Batchfile,Shell">
 
