@@ -7,6 +7,12 @@
 
 - Good at several languages for server development <br/>**擅长多种服务器开发语言**
 
+![](https://img.shields.io/badge/Kotlin-white?logo=kotlin)
+![](https://img.shields.io/badge/Go-white?logo=go)
+![](https://img.shields.io/badge/Java-white?logo=openjdk&logoColor=black)
+![](https://img.shields.io/badge/C%2B%2B-white?logo=C%2B%2B&labelColor=blue)
+![](https://img.shields.io/badge/Erlang-white?logo=erlang&logoColor=red)
+
 - Know a little about web development<br/>**略懂一些Web开发语言**
 
 - Founder of the largest *Danmaku Shooting Game* QQ group, *Touhou Project Freshman Camp*<br/>**最大的*弹幕射击游戏*QQ群——*东方Project沙包聚集地*的创始人**
