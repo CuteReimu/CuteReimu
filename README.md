@@ -7,11 +7,11 @@
 
 - Good at several languages for server development <br/>**擅长多种服务器开发语言**
 
-![](https://img.shields.io/badge/Kotlin-white?logo=kotlin)
-![](https://img.shields.io/badge/Go-white?logo=go)
 ![](https://img.shields.io/badge/Java-white?logo=openjdk&logoColor=black)
 ![](https://img.shields.io/badge/C%2B%2B-white?logo=C%2B%2B&logoColor=blue)
 ![](https://img.shields.io/badge/Erlang-white?logo=erlang&logoColor=red)
+![](https://img.shields.io/badge/Go-white?logo=go)
+![](https://img.shields.io/badge/Kotlin-white?logo=kotlin)
 
 - Know a little about web development<br/>**略懂一些Web开发语言**
 
