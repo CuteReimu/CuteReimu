@@ -15,6 +15,9 @@
 
 - Know a little about web development<br/>**略懂一些Web开发语言**
 
+![](https://img.shields.io/badge/Vue-white?logo=vuedotjs)
+![](https://img.shields.io/badge/TypeScript-white?logo=typescript)
+
 - Founder of the largest *Danmaku Shooting Game* QQ group, *Touhou Project Freshman Camp*<br/>**最大的*弹幕射击游戏*QQ群——*东方Project沙包聚集地*的创始人**
 
 - Founder of *Hollow Knight* speedrun community in China<br/>**国内*空洞骑士*速通社区奠基人**
@@ -24,5 +27,7 @@
 <img align="right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=CuteReimu&layout=compact&hide_border=true&langs_count=8&size_weight=0.5&count_weight=0.5&hide=CSV">
 
 ### Site 📫 链接
+
+[![Github Pages](https://img.shields.io/badge/Github%20Pages-black?logo=github)](https://cutereimu.github.io/)
 
 [![Bilibili](https://img.shields.io/badge/dynamic/json?labelColor=FE7398&logo=bilibili&logoColor=white&label=Bilibili-奇葩の灵梦&color=00aeec&query=%24.data.follower&url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Fweb-interface%2Fcard%3Fmid%3D1415334)](https://space.bilibili.com/1415334)
