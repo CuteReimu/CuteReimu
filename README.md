@@ -28,6 +28,6 @@
 
 ### Site 📫 链接
 
-[![Github Pages](https://img.shields.io/badge/Github%20Pages-black?logo=github)](https://cutereimu.github.io/)
+[![](https://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E4%B8%BB%E9%A1%B5-black)](https://cutereimu.cn)
 
 [![Bilibili](https://img.shields.io/badge/dynamic/json?labelColor=FE7398&logo=bilibili&logoColor=white&label=Bilibili-奇葩の灵梦&color=00aeec&query=%24.data.follower&url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Fweb-interface%2Fcard%3Fmid%3D1415334)](https://space.bilibili.com/1415334)
