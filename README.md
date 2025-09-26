@@ -1,7 +1,7 @@
 ![GitHub User's stars](https://img.shields.io/github/stars/CuteReimu?style=flat&logo=github)
 ![GitHub followers](https://img.shields.io/github/followers/CuteReimu?style=flat&logo=github)
 
-<img align="right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=CuteReimu&show_icons=true&theme=dracula&custom_title=奇葩の灵梦&count_private=true">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=CuteReimu&show_icons=true&theme=dracula&custom_title=奇葩の灵梦&count_private=true">
 
 ### About ✨ 关于
 
@@ -24,7 +24,7 @@
 
 - The designer of settlement rules of the board game, *Feng Sheng*<br/>***风声*桌游结算规则的设计者**
 
-<img align="right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=CuteReimu&layout=compact&hide_border=true&langs_count=8&size_weight=0.5&count_weight=0.5&hide=CSV">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CuteReimu&layout=compact&hide_border=true&langs_count=8&size_weight=0.5&count_weight=0.5&hide=CSV">
 
 ### Site 📫 链接
 
