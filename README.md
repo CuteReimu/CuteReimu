@@ -1,7 +1,7 @@
 ![GitHub User's stars](https://img.shields.io/github/stars/CuteReimu?style=flat&logo=github)
 ![GitHub followers](https://img.shields.io/github/followers/CuteReimu?style=flat&logo=github)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=CuteReimu&show_icons=true&theme=dracula&custom_title=奇葩の灵梦&count_private=true">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=CuteReimu&show_icons=true&theme=dracula&custom_title=%E5%A5%87%E8%91%A9%E3%81%AE%E7%81%B5%E6%A2%A6&count_private=true&show=reviews,prs_merged,prs_merged_percentage&locale=cn">
 
 ### About ✨ 关于
 
