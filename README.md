@@ -24,7 +24,7 @@
 
 - The designer of settlement rules of the board game, *Feng Sheng*<br/>***风声*桌游结算规则的设计者**
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CuteReimu&locale=cn&layout=compact&hide_border=true&langs_count=10&size_weight=0.5&count_weight=0.5&hide=CSV,Shell,PowerShell,Batchfile">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CuteReimu&locale=cn&layout=compact&hide_border=true&langs_count=10&size_weight=0.5&count_weight=0.5&hide=CSV">
 
 ### Site 📫 链接
 
