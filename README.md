@@ -1,4 +1,7 @@
-![](https://githubcard.com/CuteReimu.svg?d=pF2lGOGn)
+![GitHub User's stars](https://img.shields.io/github/stars/CuteReimu?style=flat&logo=github)
+![GitHub followers](https://img.shields.io/github/followers/CuteReimu?style=flat&logo=github)
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=CuteReimu&show_icons=true&theme=dracula&custom_title=%E5%A5%87%E8%91%A9%E3%81%AE%E7%81%B5%E6%A2%A6&count_private=true&show=reviews,prs_merged,prs_merged_percentage&locale=cn">
 
 ### About ✨ 关于
 
@@ -20,6 +23,8 @@
 - Founder of *Hollow Knight* speedrun community in China<br/>**国内*空洞骑士*速通社区奠基人**
 
 - The designer of settlement rules of the board game, *Feng Sheng*<br/>***风声*桌游结算规则的设计者**
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CuteReimu&locale=cn&layout=compact&hide_border=true&langs_count=10&size_weight=0.5&count_weight=0.5&hide=CSV">
 
 ### Site 📫 链接
 
