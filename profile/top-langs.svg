@@ -200,7 +200,7 @@
           data-testid="lang-progress"
           x="181.42"
           y="0"
-          width="13.62"
+          width="13.61"
           height="8"
           fill="#fcb32c"
         />
@@ -208,7 +208,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="195.04"
+          x="195.02999999999997"
           y="0"
           width="12.19"
           height="8"
@@ -218,7 +218,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="207.23"
+          x="207.21999999999997"
           y="0"
           width="10.27"
           height="8"
@@ -228,7 +228,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="217.5"
+          x="217.48999999999998"
           y="0"
           width="19.96"
           height="8"
@@ -238,7 +238,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="227.46"
+          x="227.45"
           y="0"
           width="18.61"
           height="8"
@@ -248,7 +248,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="236.07"
+          x="236.06"
           y="0"
           width="15.29"
           height="8"
@@ -258,7 +258,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="241.35999999999999"
+          x="241.35"
           y="0"
           width="13.26"
           height="8"
@@ -268,7 +268,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="244.61999999999998"
+          x="244.60999999999999"
           y="0"
           width="13.25"
           height="8"
@@ -278,7 +278,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="247.86999999999998"
+          x="247.85999999999999"
           y="0"
           width="12.14"
           height="8"
@@ -340,7 +340,7 @@
     <g class="stagger" style="animation-delay: 1500ms">
       <circle cx="5" cy="6" r="5" fill="#fcb32c" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        MDX 5.45%
+        MDX 5.44%
       </text>
     </g>
   </g></g><g transform="translate(150, 0)"><g transform="translate(0, 0)">
