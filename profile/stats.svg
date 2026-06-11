@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">&#22855;&#33897;&#12398;&#28789;&#26790;, Rank: A</title>
-        <desc id="descId">获标星数: 341, 累计提交总数  (去年) : 1251, 发起的 PR 总数: 101, 合并的 PR 总数: 82, 被合并的 PR 占比: 81.19, 审查的 PR 总数: 26, 提出的 issue 总数: 429, 贡献的项目数（去年）: 4</desc>
+        <desc id="descId">获标星数: 342, 累计提交总数  (去年) : 1595, 发起的 PR 总数: 101, 合并的 PR 总数: 82, 被合并的 PR 占比: 81.19, 审查的 PR 总数: 26, 提出的 issue 总数: 429, 贡献的项目数（去年）: 4</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 32.74878558427213;
+        stroke-dashoffset: 31.919025027123304;
       }
     }
   
@@ -162,7 +162,7 @@
         x="174.01"
         y="12.5"
         data-testid="stars"
-      >341</text>
+      >342</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
@@ -177,7 +177,7 @@
         x="174.01"
         y="12.5"
         data-testid="commits"
-      >1.3k</text>
+      >1.6k</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
