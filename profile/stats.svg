@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">&#22855;&#33897;&#12398;&#28789;&#26790;, Rank: A</title>
-        <desc id="descId">获标星数: 341, 累计提交总数  (去年) : 1612, 发起的 PR 总数: 101, 合并的 PR 总数: 82, 被合并的 PR 占比: 81.19, 审查的 PR 总数: 26, 提出的 issue 总数: 413, 贡献的项目数（去年）: 4</desc>
+        <desc id="descId">获标星数: 341, 累计提交总数  (去年) : 1619, 发起的 PR 总数: 101, 合并的 PR 总数: 82, 被合并的 PR 占比: 81.19, 审查的 PR 总数: 26, 提出的 issue 总数: 413, 贡献的项目数（去年）: 4</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 31.923278365491313;
+        stroke-dashoffset: 31.91405640864029;
       }
     }
   
